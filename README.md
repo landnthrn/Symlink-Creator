@@ -1,3 +1,5 @@
+<img width="689" height="517" alt="SymlinkCreator UI Preview" src="https://github.com/user-attachments/assets/0f948cd5-a28c-4148-8909-126257373882" />
+
 # Symlink-Creator
 **Very simple Command Prompt UI to create symlinks quick and easy.**
 
