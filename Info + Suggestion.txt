@@ -1,0 +1,80 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SYMLINK CREATOR
+by landn.thrn
+
+Very simple Command Prompt UI to create symlinks quick and easy.
+
+Just run the .bat to use
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO LAUNCH UI FROM ANY COMMAND PROMPT WINDOW: (Recommended)  
+
+— Open your Documents folder  
+
+— Create a folder called Scripts  
+
+— Place the Symlink.bat file into the Scripts folder you made
+
+— Windows search for Environment Variables
+
+— Once the System Properties window opens, select Environment Variables
+
+— Under User Variables, select Path and then Edit
+
+— Click New to add a new path to your User Variables
+
+— Paste the path of your Scripts folder you made — it should look like:
+   C:\Users\%USERNAME%\Documents\Scripts
+
+— Press OK > OK > OK to close Environment Variables
+
+— Open a Command Prompt window and type:
+  Symlink
+
+This will display the creator mini UI whenever you want it :)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find more of my creations on Github:  
+https://github.com/landnthrn?tab=repositories
+
+Support me on Buy Me a Coffee  
+https://buymeacoffee.com/landn.thrn
+
+Paypal Donation:  
+https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
